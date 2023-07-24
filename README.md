@@ -1,10 +1,10 @@
 # IoT
 
 #### Table of Content:-  
-* [About]( )  
-* [Task1: ESP-led Simulator]()    
-* [Used Languages]()  
-* [Resources]()  
+* [About](https://github.com/FatimahSul/IoT/blob/main/README.md#about-this-repository)  
+* [Task1: ESP-led Simulator](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)    
+* [Used Languages](https://github.com/FatimahSul/IoT/blob/main/README.md#implemented-using-%EF%B8%8F)  
+* [Resources](https://github.com/FatimahSul/IoT/blob/main/README.md#resources-)  
 
 ## About this repository 
 This repository includes my work as a trainee at Smart Methods Company / IoT path (2023).

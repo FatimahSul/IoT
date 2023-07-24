@@ -19,12 +19,12 @@ My ESP-led Simulator is built with 5 LEDs, representing the four directions the 
 <img src="images/esp_Prev.png" width="1500">
 
 #### Simulation outputs:
-Two HTML pages are used in this simulation ( https://s-m.com.sa/f.html / https://s-m.com.sa/s.html). When fetched, the first page returns `forward`, and the later page returns `stop`. Depending on which page is contained in the const `url` one of two outputs is expected: either the 4 purple LEDs will be turned on, or the single red led will be turned on and the rest will be turned off. <br />
+Two HTML pages are used in this simulation ( https://s-m.com.sa/f.html / https://s-m.com.sa/s.html). When fetched, the first page returns `forward`, and the later page returns `stop`. Depending on which page is contained in the const `url` one of two outputs is expected: either the 4 purple LEDs will be turned on, or the single red LED will be turned on and the rest will be turned off. <br />
 <div> 
 <img src="images/f_Prev.png" width="400" title="with: 'https://s-m.com.sa/f.html' ">
 <img src="images/s_Prev.png" width="390"  title="with: 'https://s-m.com.sa/s.html' ">
 </div>
-
+* I added the red LED to make sure the ESP is working well in both cases ~ it can be deleted later.
 
 
 

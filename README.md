@@ -54,6 +54,7 @@ If the second Arduino reads `0` the LED will turn off, if it reads `1` the LED w
 ## Resources :
 - https://www.w3schools.com
 - https://wokwi.com
+- www.arduino.cc
  <br /> -so far-
 
 

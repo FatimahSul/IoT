@@ -42,8 +42,7 @@ If the second Arduino reads `0` the LED will turn off, if it reads `1` the LED w
 <img src="Task2/images/Off_prev.png" width="400" title="with: 'https://s-m.com.sa/f.html' ">
 <img src="Task2/images/On_prev.png" width="400"  title="with: 'https://s-m.com.sa/s.html' ">
 </div>
-* Screen recording of the simulation is available  <a href="https://github.com/FatimahSul/IoT//Task2/simulation.mkv"> here </a>
-* [tt]([https://github.com/FatimahSul/IoT/blob/main/README.md#task-1](https://github.com/FatimahSul/IoT//Task2/simulation.mkv])
+* Screen recording of the simulation is available <a href="https://github.com/FatimahSul/IoT/blob/main/Task2/simulation.mkv" > here </a>.
 
 
 ## Implemented using 🛠️:

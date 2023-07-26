@@ -2,7 +2,8 @@
 
 #### Table of Content:-  
 * [About](https://github.com/FatimahSul/IoT/blob/main/README.md#about-this-repository)  
-* [Task1: ESP-LED Simulator](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)    
+* [Task1: ESP-LED Simulator](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)
+* [Task2: Serial communication between 2 Arduino ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)    
 * [Used Languages](https://github.com/FatimahSul/IoT/blob/main/README.md#implemented-using-%EF%B8%8F)  
 * [Resources](https://github.com/FatimahSul/IoT/blob/main/README.md#resources-)  
 
@@ -26,6 +27,22 @@ Two HTML pages are used in this simulation ( https://s-m.com.sa/f.html / https:/
 </div>
 * I added the red LED to make sure the ESP is working well in both cases ~ it can be deleted later.
 
+
+## Task 2
+### Serial communication between 2 Arduino
+
+Build a serial communication between two Arduino one of which is connected to an LED and the other one is connected to a button. When the button is pushed the LED will turn on, else it will be turned off.  
+
+### Circuse 
+<img src="Task2/images/2_Arduino.png" width="1500">
+
+#### Simulation outputs:
+If the second Arduino reads `0` the LED will turn off, if it reads `1` the LED will turn on.
+<div> 
+<img src="Task2/images/Off_prev.png" width="400" title="with: 'https://s-m.com.sa/f.html' ">
+<img src="Task2/images/On_prev.png" width="400"  title="with: 'https://s-m.com.sa/s.html' ">
+</div>
+* Screen recording of the simulation is available  <a href="www.google.com"> here </a>
 
 
 ## Implemented using 🛠️:

@@ -47,7 +47,7 @@ If the second Arduino reads `0` the LED will turn off, if it reads `1` the LED w
 
 ## Task 3
 ### Temperature and Humidity Sensor
-Make an electronic circuit for the humidity reading sensor & link the sensor readings using the GET method.
+Make an electronic circuit for the temperature & humidity reading sensor and link the sensor readings using the GET method.
 
 ### Electronic circuit
 <img src="Task3/ss1.png" width="400" >

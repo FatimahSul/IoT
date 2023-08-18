@@ -3,7 +3,8 @@
 #### Table of Content:-  
 * [About](https://github.com/FatimahSul/IoT/blob/main/README.md#about-this-repository)  
 * [Task1: ESP-LED Simulator](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)
-* [Task2: Serial communication between 2 Arduino ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-2)    
+* [Task2: Serial communication between 2 Arduino ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-2)
+* [Task3: Temperature and Humidity Sensor ]()
 * [Used Languages](https://github.com/FatimahSul/IoT/blob/main/README.md#implemented-using-%EF%B8%8F)  
 * [Resources](https://github.com/FatimahSul/IoT/blob/main/README.md#resources-)  
 
@@ -44,6 +45,17 @@ If the second Arduino reads `0` the LED will turn off, if it reads `1` the LED w
 </div>
 * Screen recording of the simulation is available <a href="https://github.com/FatimahSul/IoT/blob/main/Task2/simulation.mkv" > here </a>.
 
+## Task 3
+### Temperature and Humidity Sensor
+Make an electronic circuit for the humidity reading sensor & link the sensor readings using the GET method.
+
+### Electronic circuit
+<img src="Task3/ss1.png" width="400" >
+
+### Database
+<img src="Task3/db.png" width="400" >
+<br />
+I faced some issues connecting the sensor in Wokwi to my database since I am using a local server. So I used a code to generate data that I can reach... more details here > 
 
 ## Implemented using 🛠️:
 * HTML, PHP

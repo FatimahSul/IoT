@@ -56,7 +56,7 @@ Make an electronic circuit for the temperature & humidity reading sensor and lin
 ### Database
 <img src="Task3/db.png" width="400" >
 <br />
-I faced some issues connecting the sensor in Wokwi to my database since I am using a local server. So I used a code to generate accessible data... more details here > 
+I faced some issues connecting the sensor in Wokwi to my database since I am using a local server. So I used a code to generate accessible data... more details <a href="https://github.com/FatimahSul/WEB-NLP/blob/main/README.md#task-4" > here </a>.
 
 
 ## Task 4

@@ -4,7 +4,8 @@
 * [About](https://github.com/FatimahSul/IoT/blob/main/README.md#about-this-repository)  
 * [Task1: ESP-LED Simulator](https://github.com/FatimahSul/IoT/blob/main/README.md#task-1)
 * [Task2: Serial communication between 2 Arduino ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-2)
-* [Task3: Temperature and Humidity Sensor ]()
+* [Task3: Temperature and Humidity Sensor ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-3)
+* [Task4: IoT in Closing Ceremony ](https://github.com/FatimahSul/IoT/blob/main/README.md#task-4)
 * [Used Languages](https://github.com/FatimahSul/IoT/blob/main/README.md#implemented-using-%EF%B8%8F)  
 * [Resources](https://github.com/FatimahSul/IoT/blob/main/README.md#resources-)  
 
@@ -56,6 +57,12 @@ Make an electronic circuit for the temperature & humidity reading sensor and lin
 <img src="Task3/db.png" width="400" >
 <br />
 I faced some issues connecting the sensor in Wokwi to my database since I am using a local server. So I used a code to generate accessible data... more details here > 
+
+
+## Task 4
+### IoT in Closing Ceremony
+Come up with ideas on how Can We Use the Internet of Things in The Closing Ceremony ?! 
+details in Task4 folder
 
 ## Implemented using 🛠️:
 * HTML, PHP
